@@ -16,3 +16,5 @@ dependencies:
     - astropy==1.3.2
     - theano==0.8.2
     - xgboost==0.4a30
+    - cython==0.25.2
+    - fastFM==0.2.9
