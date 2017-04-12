@@ -10,7 +10,6 @@ dependencies:
   - pandas=0.17.1
   - scikit-learn=0.17.1
   - six=1.10.0
-  - cython==0.25.2
   - pip:
     - ipykernel==4.3.1
     - notebook==4.2.1
